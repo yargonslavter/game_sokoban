@@ -1,0 +1,106 @@
+object FrmRecursos: TFrmRecursos
+  Left = 353
+  Height = 337
+  Top = 432
+  Width = 565
+  Caption = 'Recursos'
+  ClientHeight = 337
+  ClientWidth = 565
+  LCLVersion = '2.0.6.0'
+  object Label1: TLabel
+    Left = 32
+    Height = 24
+    Top = 16
+    Width = 107
+    Caption = 'Personagem'
+    Font.Color = clBlack
+    Font.Height = -18
+    Font.Name = 'Sans'
+    ParentColor = False
+    ParentFont = False
+  end
+  object imgPersonagemTop: TImage
+    Left = 68
+    Height = 32
+    Top = 56
+    Width = 32
+  end
+  object imgPersonagemLeft: TImage
+    Left = 32
+    Height = 32
+    Top = 96
+    Width = 32
+  end
+  object imgPersonagemBottom: TImage
+    Left = 68
+    Height = 32
+    Top = 136
+    Width = 32
+  end
+  object imgPersonagemRight: TImage
+    Left = 104
+    Height = 32
+    Top = 96
+    Width = 32
+  end
+  object Label2: TLabel
+    Left = 208
+    Height = 24
+    Top = 16
+    Width = 39
+    Caption = 'Tiles'
+    Font.Color = clBlack
+    Font.Height = -18
+    Font.Name = 'Sans'
+    ParentColor = False
+    ParentFont = False
+  end
+  object imgParede: TImage
+    Left = 208
+    Height = 32
+    Top = 96
+    Width = 32
+  end
+  object imgCaixa1: TImage
+    Left = 208
+    Height = 32
+    Top = 136
+    Width = 32
+  end
+  object imgObjetivo: TImage
+    Left = 208
+    Height = 32
+    Top = 176
+    Width = 32
+  end
+  object imgCaixa2: TImage
+    Left = 249
+    Height = 32
+    Top = 136
+    Width = 32
+  end
+  object Label3: TLabel
+    Left = 368
+    Height = 24
+    Top = 16
+    Width = 19
+    Caption = 'UI'
+    Font.Color = clBlack
+    Font.Height = -18
+    Font.Name = 'Sans'
+    ParentColor = False
+    ParentFont = False
+  end
+  object imgFundo: TImage
+    Left = 368
+    Height = 32
+    Top = 56
+    Width = 32
+  end
+  object imgChao: TImage
+    Left = 208
+    Height = 32
+    Top = 56
+    Width = 32
+  end
+end
