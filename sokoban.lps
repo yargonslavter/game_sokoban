@@ -26,11 +26,10 @@
       <Unit2>
         <Filename Value="usokoban.pas"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="1"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="308"/>
         <CursorPos X="51" Y="323"/>
         <UsageCount Value="228"/>
-        <Loaded Value="True"/>
       </Unit2>
       <Unit3>
         <Filename Value="ufrmsobre.pas"/>
@@ -60,11 +59,10 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <IsVisibleTab Value="True"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="58"/>
         <CursorPos X="3" Y="75"/>
         <UsageCount Value="200"/>
-        <Loaded Value="True"/>
-        <LoadedDesigner Value="True"/>
       </Unit5>
       <Unit6>
         <Filename Value="ufrmrecursos.pas"/>
@@ -213,12 +211,10 @@
         <UsageCount Value="10"/>
       </Unit25>
     </Units>
-    <JumpHistory Count="1">
-      <Position1>
-        <Filename Value="ufrmescolhermapa.pas"/>
-        <Caret Line="320" Column="3" TopLine="272"/>
-      </Position1>
-    </JumpHistory>
+    <General>
+      <ActiveWindowIndexAtStart Value="-1"/>
+    </General>
+    <JumpHistory HistoryIndex="-1"/>
     <RunParams>
       <FormatVersion Value="2"/>
       <Modes ActiveMode=""/>
